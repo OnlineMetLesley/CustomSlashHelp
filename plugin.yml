@@ -1,0 +1,6 @@
+name: CustomSlashHelp
+author: OnlineMetLesley
+version: 1.1
+main: me.OnlineMetlesley.com.CustomSlashHelp.Main
+commands:
+  help:

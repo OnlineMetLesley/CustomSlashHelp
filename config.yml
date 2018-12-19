@@ -1,0 +1,28 @@
+#Hello this plugin is made by OnlineMetlesley.
+#If you have any questions or bug reports, please join our discord. https://discord.gg/xAHP8cA
+#Use sounds when someone uses the command, use this site and choose one of those names. https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html
+Help:
+  Help1:
+    Lines:
+    - '&8&l&m--------------------------------'
+    - '&b/spawn &c- &bTeleports you to spawn!'
+    - '&b/kit &c- &bOpens the kit gui!'
+    - '&b/tpa &c- &bSend a teleport request!'
+    - '&8&l&m--------------------------------'
+    Sound: 'ENTITY_VILLAGER_TRADE'
+  Help2:
+    Lines:
+     - '&c&lMake a help 2 in the config.yml'
+    Sound: 'ENTITY_VILLAGER_TRADE'
+  Help3:
+    Lines:
+     - '&c&lMake a help 3 in the config.yml'
+    Sound: 'ENTITY_VILLAGER_TRADE'
+  Help4:
+    Lines:
+     - '&c&lMake a help 4 in the config.yml'
+    Sound: 'ENTITY_VILLAGER_TRADE'
+  Help5:
+    Lines:
+     - '&c&lMake a help 5 in the config.yml'
+    Sound: 'ENTITY_VILLAGER_TRADE'
